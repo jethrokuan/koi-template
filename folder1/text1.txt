@@ -1,0 +1,3 @@
+bar is {{{bar}}}
+foo is {{{foo}}}
+baz is {{{baz}}}
